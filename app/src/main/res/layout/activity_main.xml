@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e8f5e9"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_marginTop="56dp"
+        android:src="@drawable/inapp_logo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/username_input"
+        android:layout_width="367dp"
+        android:layout_height="67dp"
+        android:background="@drawable/rounded_corners"
+        android:hint="@string/hint_username"
+        android:inputType="text"
+        android:padding="18dp"
+        android:textColor="#000000"
+        android:textColorHint="#4A5D23"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/password_input"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.476"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:layout_constraintVertical_bias="0.744" />
+
+    <EditText
+        android:id="@+id/password_input"
+        android:layout_width="362dp"
+        android:layout_height="66dp"
+        android:layout_marginBottom="280dp"
+        android:background="@drawable/rounded_corners"
+        android:hint="@string/hint_password"
+        android:inputType="textPassword"
+        android:padding="18dp"
+        android:textColor="#000000"
+        android:textColorHint="#4A5D23"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/login_btn"
+        android:layout_width="341dp"
+        android:layout_height="76dp"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="#4A5D23"
+    android:padding="18dp"
+    android:text="@string/btn_login"
+    android:textColor="#000000"
+    android:textSize="20sp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.497"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/password_input"
+    app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="220dp"
+        android:layout_height="34dp"
+        android:background="#e8f5e9"
+        android:fontFamily="@font/alatsi"
+        android:text="Login"
+        android:textAlignment="center"
+        android:textColor="#4A5D23"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/username_input"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+
+    <Button
+        android:id="@+id/register_btn"
+        android:layout_width="351dp"
+        android:layout_height="72dp"
+        android:backgroundTint="#4A5D23"
+        android:src="@drawable/rounded_corners"
+        android:text="@string/registration"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_btn" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

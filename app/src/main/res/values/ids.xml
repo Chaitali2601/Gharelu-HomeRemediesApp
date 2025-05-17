@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView6" type="id" />
+    <item name="textView3" type="id" />
+    <item name="image_bmi_calculator" type="id" />
+    <item name="textView2" type="id" />
+    <item name="image_help_suggestions" type="id" />
+    <item name="image_product" type="id" />
+    <item name="home_title" type="id" />
+    <item name="addToCartButton" type="id" />
+    <item name="cartItemsLayout" type="id" />
+    <item name="productItemLayout" type="id" />
+    <item name="totalPriceText" type="id" />
+    <item name="checkoutButton" type="id" />
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gharelu</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="title_app">Gharelu</string>
+    <string name="register_btn2">Register</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="register_btn">Registration</string>
+    <string name="home_title">Home Screen</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="help">Text To Disease</string>
+    <string name="bmi_description">Click to calculate your BMI</string>
+    <string name="text_to_disease">Click to get health suggestions</string>
+    <string name="text_to_disease2">Text To Disease</string>
+
+    <string name="bmi_calculator_title">BMI Calculator</string>
+
+    <!-- Hints -->
+    <string name="hint_weight">Enter Weight (kg)</string>
+    <string name="hint_height">Enter Height (cm)</string>
+
+    <!-- Button -->
+    <string name="calculate_bmi">Calculate BMI</string>
+
+    <!-- BMI Result -->
+    <string name="bmi_result_default">Your BMI will appear here</string>
+    <string name="enter_weight_kg">Enter Weight (kg)</string>
+    <string name="enter_height_cm">Enter Height (cm)</string>
+    <string name="calculate_bmi1">Calculate BMI</string>
+    <string name="your_bmi_will_appear_here">Your BMI will appear here</string>
+    <string name="bmi_calculator1">BMI Calculator</string>
+    <string name="bmi_calculator2">BMI Calculator</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="weight_1">Weight</string>
+    <string name="height1">Height</string>
+    <string name="help_suggestions">Help Suggestions</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="enter_height_inches" />
+
+    <string name="register">Register</string>
+    <string name="Home_Remedies">Home_Remedies\n</string>
+    <string name="find_solution">Find Solution</string>
+    <string name="solution_will_appear_here">Solution will appear here</string>
+    <string name="enter_your_symptom">Enter your symptom</string>
+
+
+    <!-- Product Names -->
+    <string name="product_honey_name">Raw Wildflower Honey</string>
+    <string name="product_ghee_name">A2 Vedic Ghee</string>
+    <string name="product_moringa_name">Organic Moringa Leaf Powder</string>
+    <string name="product_matcha_name">Japanese Matcha Green Tea</string>
+
+    <!-- Product Descriptions -->
+    <string name="product_honey_description">Pure honey with no added sugar</string>
+    <string name="product_ghee_description">100% Pure Natural Desi Gir Cow Ghee</string>
+    <string name="product_moringa_description">Organic Moringa Leaf Powder (Moringa oleifera)</string>
+    <string name="product_matcha_description">Rich in Vitamin E, perfect for skin and hair.</string>
+
+    <!-- Product Prices -->
+    <string name="product_honey_price">Price: RS 579.00</string>
+    <string name="product_ghee_price">Price: Rs.545.00</string>
+    <string name="product_moringa_price">Price: Rs. 1,099.00</string>
+    <string name="product_matcha_price">Price: Rs. 399.00</string>
+
+    <!-- Button Texts -->
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="go_to_cart">Go to Cart</string>
+    <string name="Products">Products</string>
+    <string name="home_remedies">Home Remedies</string>
+    <string name="log_out">Log Out</string>
+    <string name="logout" />
+    <string name="log_out1">Log Out</string>
+    <!-- Cart Activity Strings -->
+    <string name="cart_title">Your Cart</string>
+    <string name="total_label">Total:</string>
+    <string name="currency_symbol">₹</string>
+    <string name="default_total_price">0.00</string>
+    <string name="checkout_button_text">Proceed to Checkout</string>
+
+    <!-- Toast Messages -->
+    <string name="product_added_to_cart">Product added to cart</string>
+    <string name="cart_empty_message">Your cart is empty</string>
+    <string name="remove">Remove</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="total_0_00">Total: ₹0.00</string>
+    <string name="your_cart">Your Cart</string>
+    <string name="product_name">Product Name</string>
+    <string name="registration">Registration</string>
+
+
+</resources>

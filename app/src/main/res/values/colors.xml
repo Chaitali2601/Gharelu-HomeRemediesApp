@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#4A5D23</color> <!-- Example green color -->
+    <color name="primary_dark_color">#3B4A1B</color> <!-- Darker green shade -->
+    <color name="primary_light_color">#7F9F52</color> <!-- Lighter green shade -->
+
+
+    <color name="gray">#6A5B5B</color>
+
+    <!-- Background Colors -->
+    <color name="background_color">#e8f5e9</color> <!-- Light green background -->
+    <color name="button_background">#4A5D23</color> <!-- Button background color -->
+
+    <!-- Accent Colors -->
+    <color name="accent_color">#FF4081</color> <!-- Accent color, pinkish -->
+    <color name="button_text_color">#FFFFFF</color> <!-- White color for button text -->
+
+    <!-- Additional Colors -->
+    <color name="error_color">#D32F2F</color> <!-- Red color for errors -->
+    <color name="success_color">#388E3C</color> <!-- Green color for success -->
+</resources>

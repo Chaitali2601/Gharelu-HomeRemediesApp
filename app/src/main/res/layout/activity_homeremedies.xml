@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e8f5e9"
+    tools:context=".HomeremediesActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Input for the symptom -->
+        <EditText
+            android:id="@+id/symptom_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="Input for symptom"
+            android:hint="Enter your symptom"
+            android:importantForAccessibility="yes"
+            android:inputType="text"
+            android:textColorHint="#000000" />
+
+        <!-- Button to trigger the solution -->
+        <Button
+            android:id="@+id/find_solution_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#4A5D23"
+            android:text="Find Solution"
+            android:textColor="#FFFFFF" />
+
+        <!-- TextView to display the solution -->
+        <TextView
+            android:id="@+id/solution_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Solution will appear here"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
