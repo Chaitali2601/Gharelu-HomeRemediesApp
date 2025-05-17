@@ -1,8 +1,6 @@
-# Gharelu-HomeRemediesApp
-Gharelu is an Android app offering natural home remedies, a BMI calculator, and wellness products. Built with Jetpack Compose and Figma UI, it provides a clean, intuitive user experience for users seeking simple, effective health solutions at home.
 # 🏡 Gharelu - Home Remedies Android App
 
-**Gharelu** is a modern Android application developed using **Jetpack Compose** that offers natural and traditional home remedies for common health issues. The app also includes features like a BMI calculator and a product store to support holistic wellness.
+**Gharelu** Gharelu is an Android app offering natural home remedies, a BMI calculator, and wellness products. Built with Jetpack Compose and Figma UI, it provides a clean, intuitive user experience for users seeking simple, effective health solutions at home.
 
 ## ✨ Features
 
