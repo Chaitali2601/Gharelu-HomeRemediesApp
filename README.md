@@ -20,7 +20,7 @@
 
 | Main | Home Screen | Remedies | Products | BMI Calculator |
 |------|-------------|----------|----------|----------------|
-| ![main]("C:\Users\Chaitali Bisen\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 183648.png")| ![home]("C:\Users\Chaitali Bisen\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 182918.png") | ![remedies]("C:\Users\Chaitali Bisen\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 183230.png") | ![products]("C:\Users\Chaitali Bisen\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 183230.png") | ![bmi]("C:\Users\Chaitali Bisen\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 183158.png") |
+| ![main](C:\Users\Chaitali Bisen\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 183648.png)| ![home]("C:\Users\Chaitali Bisen\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 182918.png") | ![remedies]("C:\Users\Chaitali Bisen\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 183230.png") | ![products]("C:\Users\Chaitali Bisen\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 183230.png") | ![bmi]("C:\Users\Chaitali Bisen\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 183158.png") |
 
 ## 🚀 Getting Started
 
