@@ -33,3 +33,18 @@
 ```bash
 git clone https://github.com/Chaitali2601/Gharelu-HomeRemediesApp.git
 cd Gharelu-HomeRemediesApp
+### Project Structure
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/ai/codia/x/composeui/demo
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   ├── drawable/
+│   │   │   │   ├── values/
+│   │   │   └── AndroidManifest.xml
+├── build.gradle
+└── README.md
+
+###🧑‍💻 Author
+👩‍💻 Chaitali2601
